@@ -1,5 +1,7 @@
 # KonyMobileFabric_SAML_Demo
-    
+  
+  This Application showcases how to use SAML with Kony MobileFabric.
+  
 #Steps to run the app
 
 - Download the SAMLDemo folder.
